@@ -13,3 +13,14 @@ $header-tablet-height: 70px;
 $header-mobile-height: 40px;
 $header-shrink-height: 40px;
 
+$colors: (
+    "blue": #4267b2,
+    "orange": #fbb96b,
+    "pink": #fe7e73,
+    "white": #fff,
+    "black": #000,
+    "main": $main-color
+);
+
+$mobile-width: 600px;
+$tablet-width: 1024px;
