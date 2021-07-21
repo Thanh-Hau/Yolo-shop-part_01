@@ -1,11 +1,17 @@
 import React from 'react'
 
-const home = () => {
+import Helmet from '../components/Helmet'
+
+import HeroSlider from '../components/HeroSlider'
+
+const Home = () => {
     return (
-        <div>
-            Home
-        </div>
+        <Helmet title="Trang chủ">
+            {/* hero slider */}
+                <HeroSlider/>
+            {/* end hero slider */}
+        </Helmet>
     )
 }
 
-export default home
+export default Home
