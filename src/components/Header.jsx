@@ -72,7 +72,7 @@ const Header = () => {
                     </div>
                     <div className="header__menu__right">
                         <div className="header__menu__item header__menu__right__item">
-                            <Link>
+                            <Link to="/cart">
                                 <i className="bx bx-search"></i>
                             </Link>
                         </div>
