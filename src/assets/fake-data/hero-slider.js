@@ -4,21 +4,21 @@ const img3 = require("../images/slider/slide_3.png").default;
 
 const heroSliderData = [
     {
-        title: "What is Lorem Ipsum 1",
+        title: "Polo nữ Pima cao cấp",
         description: "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         img: img1,
         path: "/catalog/ao-thun-dinosaur-01",
         color: "pink"
     },
     {
-        title: "What is Lorem Ipsum 2",
+        title: "Polo nữ dáng suông modal",
         description: "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         img: img2,
         path: "/catalog/ao-thun-dinosaur-01",
         color: "blue"
     },
     {
-        title: "What is Lorem Ipsum 3",
+        title: "Polo nữ Coolmax Lacoste",
         description: "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         img: img3,
         path: "/catalog/ao-thun-dinosaur-01",
